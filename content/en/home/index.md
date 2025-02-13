@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Hi, I'm Latissime"
 headless: true
 ---
 
-I'm a theme for Hugo.
+Scroll down to see some of our active projects!
