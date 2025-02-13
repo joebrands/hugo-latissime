@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Our Projects"
 image: "profile.jpg"
 weight: 8
 ---

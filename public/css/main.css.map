@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/JoeBo/Downloads/hugo/hugo",
+	"sourceRoot": "C:/Users/JoeBo/OneDrive/Projects/Extraction Alternatives/Website, Email and IT/Latissime/hugo",
 	"sources": [
 		"themes/introduction/assets/sass/style.sass",
 		"themes/introduction/assets/sass/_fonts.sass",

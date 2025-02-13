@@ -1,5 +1,6 @@
 ---
 title: "Hi, I'm Latissime"
+image: "profile.jpg"
 headless: true
 ---
 
