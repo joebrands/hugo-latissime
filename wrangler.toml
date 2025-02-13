@@ -1,1 +1,3 @@
 route = "https://latissime.com/*"
+[site]
+bucket = "./public"
